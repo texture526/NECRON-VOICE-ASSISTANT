@@ -2,7 +2,7 @@ import speech_recognition as sr
 import pyttsx3
 import openai
 
-openai.api_key = "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"  # Replace with your real key
+openai.api_key = " "  # Replace with your real key
 
 # Initialize text-to-speech engine
 engine = pyttsx3.init()
